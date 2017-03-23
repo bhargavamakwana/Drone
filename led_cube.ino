@@ -1,11 +1,4 @@
-/*******************************************************************************************
-  3 X 3 X 3  Single Color LED Cube
-  cube built by Hassan Ali
-  Started on June 26 2012
-  www.islandByte.com
-  Cube built for multiplexing - using 3 pins and 3 transistors to contorl the rows 1-3
-  And using 9 pins to control the Coloums 1-9
-  This gives Arduino control of 27 LEDS by using only 12 pins.
+
  *******************************************************************************************/
  
 /* 
